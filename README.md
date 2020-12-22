@@ -53,14 +53,18 @@ If you enter A key, you can see the light changing.
 The doll next to the robot arm is miniature of my real doll. I made it into 3D object using '3DF Zephyr Free' program.
 
 You can get extra explanation about my work from my blog.   
-Link is over here > https://blog.naver.com/118dg/222112739224     
-                    https://blog.naver.com/118dg/222123534219      
-                    https://blog.naver.com/118dg/222131018308      
-                    https://blog.naver.com/118dg/222156074649     
+
+Link is over here >   
+https://blog.naver.com/118dg/222112739224     
+https://blog.naver.com/118dg/222123534219      
+https://blog.naver.com/118dg/222131018308      
+https://blog.naver.com/118dg/222156074649     
 
 ## 3. Cylinder
 ...(will write sth)...
 
 You can get extra explanation about my work from my blog.   
-Link is over here > https://blog.naver.com/118dg/222178707354
+
+Link is over here >    
+https://blog.naver.com/118dg/222178707354
 
