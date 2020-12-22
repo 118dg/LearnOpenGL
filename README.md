@@ -42,7 +42,7 @@ Perfect if you want to follow along with the chapters, without the hassle of hav
 
 --------------------
 
-# Explanation about my works
+# Explanation about my works*
 You can see my projects' source codes at ComputerGraphics/src/3.model_loading folder.
 3.model_loading/2.robot_arms & 3.model_loading/3.cylinder are projects which I had been working on.
 
