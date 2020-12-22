@@ -40,7 +40,7 @@ Polytonic created a project called [Glitter](https://github.com/Polytonic/Glitte
 Everything you need to run a single LearnOpenGL Project (including all libraries) and just that; nothing more. 
 Perfect if you want to follow along with the chapters, without the hassle of having to manually compile and link all third party libraries!
 
------------------------------------------------------------------------------------------------------------------------------------------------------
+* * *
 
 # Explanation about my works
 You can see my projects' source codes at ComputerGraphics/src/3.model_loading folder.
