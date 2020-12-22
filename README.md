@@ -45,14 +45,14 @@ Perfect if you want to follow along with the chapters, without the hassle of hav
 
 
 # Explanation about my works*
-You can see my projects' source codes at ComputerGraphics/src/3.model_loading folder.
-3.model_loading/2.robot_arms & 3.model_loading/3.cylinder are projects which I had been working on.
+You can see my projects' source codes at ComputerGraphics/src/3.model_loading folder.   
+3.model_loading/2.robot_arms & 3.model_loading/3.cylinder are projects which I had been working on.   
 
 ## 2.robot_arms
-You can handle robot_arms with WASD keys (oh, except A key because I am using A key to handle the light) and moving mouse.
-If you enter A key, you can see the light changing.
+You can handle robot_arms with WASD keys (oh, except A key because I am using A key to handle the light) and moving mouse.   
+If you enter A key, you can see the light changing.   
 
-The doll next to the robot arm is miniature of my real doll. I made it into 3D object using '3DF Zephyr Free' program.
+The doll next to the robot arm is miniature of my real doll. I made it into 3D object using '3DF Zephyr Free' program.   
 
 You can get extra explanation about my work from my blog.   
 
