@@ -40,7 +40,7 @@ Polytonic created a project called [Glitter](https://github.com/Polytonic/Glitte
 Everything you need to run a single LearnOpenGL Project (including all libraries) and just that; nothing more. 
 Perfect if you want to follow along with the chapters, without the hassle of having to manually compile and link all third party libraries!
 
----
+****
 
 # Explanation about my works
 You can see my projects' source codes at ComputerGraphics/src/3.model_loading folder.
@@ -53,10 +53,10 @@ If you enter A key, you can see the light changing.
 The doll next to the robot arm is miniature of my real doll. I made it into 3D object using '3DF Zephyr Free' program.
 
 You can get extra explanation about my work from my blog.
-Link is over here > https://blog.naver.com/118dg/222112739224
-                    https://blog.naver.com/118dg/222123534219
-                    https://blog.naver.com/118dg/222131018308
-                    https://blog.naver.com/118dg/222156074649
+Link is over here > https://blog.naver.com/118dg/222112739224     
+                    https://blog.naver.com/118dg/222123534219      
+                    https://blog.naver.com/118dg/222131018308      
+                    https://blog.naver.com/118dg/222156074649     
 
 ## 3. Cylinder
 ...(will write sth)...
