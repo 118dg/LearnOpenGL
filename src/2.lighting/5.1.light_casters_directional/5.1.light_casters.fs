@@ -2,18 +2,18 @@
 out vec4 FragColor;
 
 struct Material {
-    sampler2D diffuse;
-    sampler2D specular;    
-    float shininess;
+    sampler2D diffuse; //발견. setupShader
+    sampler2D specular; //발견    
+    float shininess; //발견. while
 }; 
 
 struct Light {
     //vec3 position;
-    vec3 direction;
+    vec3 direction; //발견. while
 
-    vec3 ambient;
-    vec3 diffuse;
-    vec3 specular;
+    vec3 ambient; //발견
+    vec3 diffuse; //발견
+    vec3 specular; //발견
 };
 
 in vec3 FragPos;  

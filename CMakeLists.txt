@@ -109,6 +109,8 @@ set(2.lighting
 
 set(3.model_loading
     1.model_loading
+    2.robot_arm
+    3.cylinder
 )
 
 set(4.advanced_opengl
